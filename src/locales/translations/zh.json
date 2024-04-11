@@ -1,0 +1,36 @@
+{
+  "page2": "页面2",
+  "menu": {
+    "home": "首页",
+    "user management": "用户管理",
+    "user": {
+      "list_user": "list user",
+      "department": "department",
+      "position": "position",
+      "role": "role",
+      "permission": "permission",
+      "menu": "menu"
+    },
+    "system management": "系统管理",
+    "system": {
+      "param": "param",
+      "dict": "dict",
+      "log": "log",
+      "log_action": "action",
+      "log_login": "login",
+      "monitor": "monitor",
+      "monitor_users": "users",
+      "monitor_server": "server",
+      "monitor_redis": "redis",
+      "monitor_caches": "caches",
+      "dev": "dev",
+      "dev_success": "success",
+      "dev_fail": "fail",
+      "dev_error_404": "error 404 page",
+      "dev_error_403": "error 403 page"
+    },
+
+    "favorite management": "测试菜单",
+    "user_list_user": "list user"
+  }
+}

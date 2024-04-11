@@ -1,0 +1,35 @@
+{
+  "page2": "PPage2",
+  "menu": {
+    "home": "Home",
+    "user management": "User ",
+    "user": {
+      "list_user": "list user",
+      "department": "department",
+      "position": "position",
+      "role": "role",
+      "permission": "permission",
+      "menu": "menu"
+    },
+    "system management": "System ",
+    "system": {
+      "param": "param",
+      "dict": "dict",
+      "log": "log",
+      "log_action": "action",
+      "log_login": "login",
+      "monitor": "monitor",
+      "monitor_users": "users",
+      "monitor_server": "server",
+      "monitor_redis": "redis",
+      "monitor_caches": "caches",
+      "dev": "dev",
+      "dev_success": "success",
+      "dev_fail": "fail",
+      "dev_error_404": "error 404 page",
+      "dev_error_403": "error 403 page"
+    },
+    "favorite management": "Favorite Management"
+  },
+  "view_more": "view more"
+}
